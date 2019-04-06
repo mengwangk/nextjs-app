@@ -1,0 +1,26 @@
+{
+  "name": "nextjs-app",
+  "version": "1.0.0",
+  "description": "Sample next.js app",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mengwangk/nextjs-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mengwangk/nextjs-app/issues"
+  },
+  "homepage": "https://github.com/mengwangk/nextjs-app#readme",
+  "dependencies": {
+    "next": "^8.0.4",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
